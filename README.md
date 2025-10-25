@@ -1,16 +1,16 @@
 
 
-Author: Sebastian Cañon Cuartas
+Author: Sebastian Cañon Cuartas   
 Class Number: Si2002-5730
 
 Assignment 1 - DFA Minimization
 ------------------------------------------------------------
 Environment and Tools
 ------------------------------------------------------------
-Operating System: Windows 10
-Programming Language: Java 17
-Compiler/Tool: javac and java (from JDK 17)
-Editor: Visual Studio Code
+Operating System: Windows 10   
+Programming Language: Java 17   
+Compiler/Tool: javac and java (from JDK 17)   
+Editor: Visual Studio Code   
 
 ------------------------------------------------------------
 How to Compile and Run
@@ -23,16 +23,16 @@ How to Compile and Run
 4. Provide the input following the exact format described in the assignment.
 
 Example Input:
-1
-6
-a b
-1 2 5
-0 1 2
-1 3 4
-2 4 3
-3 5 5
-4 5 5
-5 5 5
+1   
+6   
+a b   
+1 2 5   
+0 1 2   
+1 3 4   
+2 4 3   
+3 5 5   
+4 5 5   
+5 5 5   
 
 Expected Output:
 (1, 2) (3, 4)
@@ -79,16 +79,16 @@ How to Compile and Run
    javac Main.java
 3. Run the program:
    java Main
-4. Provide the input following the exact format described in the assignment.
+4. Provide the input following the exact format described in the assignment.   
 
-Example Input:
-1
-1
-S -> Sa b
+Example Input:   
+1   
+1   
+S -> Sa b   
 
-Expected Output:
-S -> bZ
-Z -> aZ e
+Expected Output:   
+S -> bZ   
+Z -> aZ e   
 
 ------------------------------------------------------------
 Algorithm Explanation
